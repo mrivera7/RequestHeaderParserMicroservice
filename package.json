@@ -1,0 +1,17 @@
+{
+  "name": "requestheaderparsermicroservice",
+  "version": "1.0.0",
+  "description": "A simple request header parser api.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": "Michael A. Rivera",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
